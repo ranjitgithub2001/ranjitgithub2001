@@ -1,6 +1,6 @@
 👋 Hi, I’m Ranjit Kale <br>
 👀 I’m interested in unraveling intricate technical challenges, exploring innovative solutions, and continuously expanding my knowledge in software development.<br>
-🌱 I’m currently learning and enhancing my skills in various technologies, including JavaScript, Java, and Spring.<br>
+🌱 I’m currently learning and enhancing my skills in various technologies, including JavaScript, Java, and ReactJS.<br>
 💞️ I’m looking to collaborate on projects that involve full-stack web development, cloud technologies, and data analysis.<br>
 📫 How to reach me:<br>
 LinkedIn: https://www.linkedin.com/in/ranjit-kale-0b373424a<br>
