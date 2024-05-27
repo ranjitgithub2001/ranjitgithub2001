@@ -2,7 +2,7 @@
 👀 I’m interested in unraveling intricate technical challenges, exploring innovative solutions, and continuously expanding my knowledge in software development.<br>
 🌱 I’m currently learning and enhancing my skills in various technologies, including JavaScript, Java, and ReactJ.<br>
 🌱 HTML5 | CSS3 | TailwindCSS.<br>
-💞️ I’m looking to collaborate on projects that involve full-stack web development, cloud technologies, and data analysis.<br>
+💞️ I’m looking to collaborate on projects that involve full-stack web development..<br>
 📫 How to reach me:<br>
 LinkedIn: https://www.linkedin.com/in/ranjit-kale-0b373424a<br>
 Email: ranjitkale449@gmail.com<br>
