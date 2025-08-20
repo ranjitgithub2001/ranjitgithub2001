@@ -15,6 +15,6 @@
 ---
 
 😄 **Pronouns:** He/Him  
-⚡ **Fun fact:** When I’m not teaching or coding, you’ll probably find me writing poems in **Hindi & Urdu** or enjoying a good podcast.  
+⚡ **Fun fact:** When I’m not teaching or coding, you’ll probably find me writing or enjoying a good podcast.  
 
 💡 *I love helping others grow in tech while growing myself.*  
