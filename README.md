@@ -1,11 +1,20 @@
-👋 Hi, I’m Ranjit Kale <br>
-👀 I’m interested in unraveling intricate technical challenges, exploring innovative solutions, and continuously expanding my knowledge in software development.<br>
-🌱 I’m currently learning and enhancing my skills in various technologies, including JavaScript, Java, and ReactJ.<br>
-🌱 HTML5 | CSS3 | TailwindCSS.<br>
-💞️ I’m looking to collaborate on projects that involve full-stack web development..<br>
-📫 How to reach me:<br>
-LinkedIn: https://www.linkedin.com/in/ranjit-kale-0b373424a<br>
-Email: ranjitkale449@gmail.com<br>
-Instagram: https://www.instagram.com/being__r.k/<br>
-😄 Pronouns: He/Him<br>
-⚡ Fun fact: I enjoy writing poems in Hindi and Urdu, and I'm an avid listener of podcasts<br>
+# 👋 Hey there, I’m Ranjit Kale  
+
+✨ I’m a **trainer at FBS**, where I get to share my love for coding and tech with students.  
+🚀 I enjoy diving into **Java, JavaScript, React.js, Spring Boot**, and exploring new tools that make development fun.  
+🎨 On the frontend, I like working with **HTML5 | CSS3 | TailwindCSS** to bring ideas to life.  
+🤝 Always excited to **collaborate on web development projects** and learn from others along the way.  
+
+---
+
+## 📫 Connect with me  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ranjit-kale-0b373424a)  
+- 📧 **ranjitkale449@gmail.com**  
+- 📸 [Instagram](https://www.instagram.com/being__r.k/)  
+
+---
+
+😄 **Pronouns:** He/Him  
+⚡ **Fun fact:** When I’m not teaching or coding, you’ll probably find me writing poems in **Hindi & Urdu** or enjoying a good podcast.  
+
+💡 *I love helping others grow in tech while growing myself.*  
